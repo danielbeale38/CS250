@@ -1,1 +1,4 @@
 # CS250
+1. Interpreting user needs means focusing on what the user actually needs, not only what they ask for. User stories help by structuring requirements in a way that keeps development focused. A well-written user story makes it easier to translate needs into functional code, prioritize tasks, and track progress in Agile.
+2. I try to break it down into smaller, manageable tasks and work iteratively. Agile fits well with this since it allows for early feedback and continuous improvements. In the future, I would like to incorporate daily stand-ups, backlog refinement, and test-driven development to keep projects organized and adaptable.
+3. A good team member communicates and collaborates. Helping others and giving/receiving feedback is just as important as writing good code. Agile relies on continuous feedback and shared knowledge, so effective collaboration makes the whole team stronger.
